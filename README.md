@@ -21,13 +21,13 @@ This tool provides a convenient way to interact with the Shodan.io API, allowing
 2. Clone this repository:
 
     ```shell
-    git clone https://github.com/your-username/shodan-api-extractor.git
+    git clone https://github.com/bytepanther/shodan.git
     ```
 
 3. Build the project:
 
     ```shell
-    cd shodan-api-extractor
+    cd shodan
     cargo build --release
     ```
 
@@ -39,6 +39,4 @@ This tool provides a convenient way to interact with the Shodan.io API, allowing
 
 ## Usage
 
-To use the Shodan API Extractor, you will need an API key from Shodan.io. You can obtain an API key by signing up for a free account at [https://www.shodan.io](https://www.shodan.io).
-
-Once you have obtained an API key, you can set it as an environment variable:
+To use the Shodan API Extractor, you will need an API key from Shodan.io.
